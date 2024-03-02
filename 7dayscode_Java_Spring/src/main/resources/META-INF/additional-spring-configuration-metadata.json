@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "imdb.apiurl",
+  "type": "java.lang.String",
+  "description": "Onde está armazenado o link para a API do imdb"
+}]}
